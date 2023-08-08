@@ -26,11 +26,8 @@
             <ul>
                 <li><a href="#goal">მიზანი</a></li>
                 <li><a href="#education">განათლება</a></li>
-                <li><a href="#skills">უნარები</a></li>
-                <li><a href="#experience">სამუშაო გამოცდილება</a></li>
-                <li><a href="#certificats">სერთიფიკატები</a></li>
                 <li><a href="#languages">ენები</a></li>
-                <li><a href="#recomendators">რეკომენდაციები</a></li>
+                
             </ul>
         </nav>
         
@@ -46,35 +43,26 @@
            
             <hr>
         </section>
-        <section id="projects">
-            <h2>მიმდინარე პროექტები</h2>
-        </section>
+    
 
         <section id="education">
             <h2>განათლება</h2>
             <hr>
             <p>
-                <strong>მოსწავლე</strong> - სსიპ გურჯაანის რაიონის სოფელ არაშენდის საჯარო სკოლა 
+                <strong>სსიპ გურჯაანის რაიონის სოფელ არაშენდის საჯარო სკოლის მე-11 კლასის მოსწავლე</strong> -  
             </p>
-        
-           
             <hr>
         </section>
+           
 
         
-
-        <section id="experience">
-           
-
-           
-            
         
         <section id="languages">
             <h2>ენები</h2>
 
             <p><strong>ქართული</strong> - მშობლიური</p>
-            <p><strong>რუსული</strong> - თავისუფლად</p>
-            <p><strong>ინგლისური</strong> - ტექნიკური</p>
+            <p><strong>რუსული</strong> </p>
+            <p><strong>ინგლისური</strong> </p>
             
     </main>
 
